@@ -1,9 +1,6 @@
 ### Hi there 👋
 I'm a developer based in Germany, who is currently learning [Strapi](https://strapi.io/).
 
-### You can hire me 👨‍💻
-I'm looking for a part-time occupation. 
-
 ### Reach me out
 Mail ✉️: [julianbantel@gmail.com](mailto:julianbantel@gmail.com)
 
