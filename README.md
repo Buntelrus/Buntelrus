@@ -1,10 +1,8 @@
 ### Hi there 👋
-I'm a developer based in Germany, who is currently learning [Strapi](https://strapi.io/).
+I'm a developer based in Germany, who is currently working at X-CELL AG. I do a lot of Java & Javascript stuff - some new projects and a lot of legacy code 🙃.
 
 ### Reach me out
 Mail ✉️: [julianbantel@gmail.com](mailto:julianbantel@gmail.com)
-
-Phone 📱: [+49 15736197434](tel:+4915736197434)
 
 <!--
 **Buntelrus/Buntelrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
